@@ -1,4 +1,4 @@
-# The single cell dataset: 
+# The single cell datasets: 
 
 | Datasets | Type |
 | :----: | :----: | 
