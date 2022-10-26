@@ -2,4 +2,4 @@
 
 | Datasets | Type |
 | :----: | :----: | 
-| [IMachrophase dataset](https://github.com/Kiron-J-Roy/Macrophage-single-cell-script) | Mouse |
+| [Machrophase dataset](https://github.com/Kiron-J-Roy/Macrophage-single-cell-scripts) | Mouse |
