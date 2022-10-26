@@ -1,6 +1,4 @@
-# Helgason Lab
-
-The single cell dataset: 
+# The single cell dataset: 
 
 | Datasets | Type |
 | :----: | :----: | 
